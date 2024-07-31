@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 This is a basic recipe website that I am making as a part of The Odin Project's Foundations course (https://www.theodinproject.com/lessons/foundations-recipes).
 
